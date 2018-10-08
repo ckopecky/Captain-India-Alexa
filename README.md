@@ -5,13 +5,13 @@ An india based quiz game. You can find it :point_right: [here](https://www.amazo
 
 ## Getting started
 
-Copy the code to get started on your alexa journey!
-The code is written in node.js.
+* Copy the code to get started on your alexa journey!
+_The code is written in node.js._
 
 ### Dependencies
 
-Place the ```lambda.js``` file in a new aws lambda project.
+* Place the ```lambda.js``` file in a new aws lambda project.
 
-Import the ```intent.json``` file into your amazon developer console and you would be up and running in no time.
+* Import the ```intent.json``` file into your amazon developer console and you would be up and running in no time.
 
-Make sure to follow amazon tutorials for a detailed understanding of alexa skills!.
+__Make sure to follow amazon tutorials for a detailed understanding of alexa skills!__
